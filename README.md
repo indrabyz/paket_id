@@ -16,3 +16,6 @@ localhost/paketid/index.php/api/destination_data (PUT in Postman)
 
 # del data
 localhost/paketid/index.php/api/destination_data (DEL in Postman)
+
+# Database
+paket_id.sql
